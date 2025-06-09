@@ -1,0 +1,36 @@
+data = [
+    # Income Statement - 2023
+    (2023, "Operating Revenue", "P&L", 1200000, "Sales"),
+    (2023, "Cost of Goods Sold", "P&L", -600000, "Operations"),
+    (2023, "Selling Expenses", "P&L", -100000, "Sales"),
+    (2023, "Administrative Expenses", "P&L", -80000, "Administration"),
+    (2023, "Other Income", "P&L", 20000, "Finance"),
+    (2023, "Other Expenses", "P&L", -10000, "Finance"),
+    (2023, "Financial Expenses", "P&L", -15000, "Finance"),
+    (2023, "Income Tax", "P&L", -70000, "Finance"),
+
+    # Income Statement - 2024
+    (2024, "Operating Revenue", "P&L", 1350000, "Sales"),
+    (2024, "Cost of Goods Sold", "P&L", -670000, "Operations"),
+    (2024, "Selling Expenses", "P&L", -110000, "Sales"),
+    (2024, "Administrative Expenses", "P&L", -85000, "Administration"),
+    (2024, "Other Income", "P&L", 25000, "Finance"),
+    (2024, "Other Expenses", "P&L", -12000, "Finance"),
+    (2024, "Financial Expenses", "P&L", -16000, "Finance"),
+    (2024, "Income Tax", "P&L", -75000, "Finance"),
+
+    # Balance Sheet - 2023
+    (2023, "Current Assets", "Balance", 300000, "Finance"),
+    (2023, "Non-Current Assets", "Balance", 700000, "Finance"),
+    (2023, "Current Liabilities", "Balance", 200000, "Finance"),
+    (2023, "Non-Current Liabilities", "Balance", 150000, "Finance"),
+    (2023, "Equity", "Balance", 650000, "Finance"),
+
+    # Balance Sheet - 2024
+    (2024, "Current Assets", "Balance", 350000, "Finance"),
+    (2024, "Non-Current Assets", "Balance", 750000, "Finance"),
+    (2024, "Current Liabilities", "Balance", 220000, "Finance"),
+    (2024, "Non-Current Liabilities", "Balance", 180000, "Finance"),
+    (2024, "Equity", "Balance", 700000, "Finance"),
+]
+
